@@ -4,7 +4,7 @@
 
 # Windows 실행파일 다운로드
 
-dist 경로 안에 있는 exe 파일을 사용하시거나 pyinstaller로 exe를 만들어보세요.
+최상위 경로 ez-image-optimizer.zip 안에 있는 exe 파일을 사용하시거나 소스코드를 수정하여 pyinstaller로 exe를 만들어보세요.
 
 # 필요 모듈 설치방법
 ```python

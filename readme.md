@@ -4,7 +4,8 @@
 
 # Windows 실행파일 다운로드
 
-최상위 경로 ez-image-optimizer.zip 안에 있는 exe 파일을 사용하시거나 소스코드를 수정하여 pyinstaller로 exe를 만들어보세요.
+[ez-image-optimizer.zip](https://gitlab.com/Whackur/ez-image-optimizer/blob/master/ez-image-optimizer.zip) 의 압축파일을 다운로드 하시거나
+소스코드를 수정하여 pyinstaller로 exe를 만들어보세요.
 
 # 필요 모듈 설치방법
 ```python
@@ -39,6 +40,8 @@ optional arguments:
 ### 설정
 
 conf.py 안의 설정값들을 적절하게 조절합니다.
+
+주의하실 점은 exe 파일은 conf.py 파일을 읽지 않고 기본설정으로 동작합니다.
 
 아래는 기본소스입니다.
 

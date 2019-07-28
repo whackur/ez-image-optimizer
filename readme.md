@@ -16,6 +16,10 @@ pip install pillow
 
 ### CLI mode
 
+cmd 안에서 실행하는 모드입니다.
+
+-f 옵션을 주고 대상 이미지 경로를 입력해줍니다.
+
 ```bash
 usage: ez-image-optimizer.py [-h] [-f F]
 
